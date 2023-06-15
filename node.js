@@ -11,6 +11,7 @@ module.exports = {
   },
   plugins: ["@typescript-eslint"],
   rules: {
+    semi: ["error", "always"],
     "prettier/prettier": [
       "error",
       {
@@ -19,7 +20,7 @@ module.exports = {
         singleQuote: false,
         trailingComma: "all",
         arrowParens: "always",
-        semi: false,
+        semi: true,
       },
     ],
   },

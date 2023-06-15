@@ -1,5 +1,11 @@
 # @rafaeld3v/eslint-config
 
+## 1.1.0
+
+### Minor Changes
+
+- Add semicolon (;) to end of line
+
 ## 1.0.1
 
 ### Patch Changes
