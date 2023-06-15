@@ -20,6 +20,7 @@ module.exports = {
   },
   plugins: ["react", "jsx-a11y", "@typescript-eslint"],
   rules: {
+    semi: ["error", "always"],
     "prettier/prettier": [
       "error",
       {
