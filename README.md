@@ -1,6 +1,6 @@
-![rafaeld3v](./logo.svg)
-
 # ESLint config
+
+![rafaeld3v](./logo.svg)
 
 ## Whats included?
 
