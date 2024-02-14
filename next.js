@@ -5,10 +5,8 @@ module.exports = {
     jest: true,
   },
   extends: [
-    "plugin:react/recommended",
-    "plugin:react-hooks/recommended",
     "standard",
-		'plugin:@typescript-eslint/recommended',
+    "plugin:@typescript-eslint/recommended",
     "plugin:prettier/recommended",
   ],
   parser: "@typescript-eslint/parser",
@@ -19,9 +17,8 @@ module.exports = {
     ecmaVersion: "latest",
     sourceType: "module",
   },
-  plugins: ["react", "jsx-a11y", "@typescript-eslint"],
+  plugins: ["jsx-a11y", "@typescript-eslint"],
   rules: {
-    semi: ["error", "always"],
     "prettier/prettier": [
       "error",
       {
@@ -34,8 +31,6 @@ module.exports = {
         endOfLine: "auto",
       },
     ],
-    "react/react-in-jsx-scope": "off",
-    "react/prop-types": "off",
     "jsx-a11y/alt-text": [
       "warn",
       {
