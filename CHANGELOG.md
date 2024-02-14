@@ -1,5 +1,11 @@
 # @rafaeld3v/eslint-config
 
+## 2.0.1
+
+### Patch Changes
+
+- Add README
+
 ## 2.0.0
 
 ### Major Changes
