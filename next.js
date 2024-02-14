@@ -22,13 +22,13 @@ module.exports = {
     "prettier/prettier": [
       "error",
       {
-        printWidth: 80,
+        semi: true,
         tabWidth: 2,
+        printWidth: 80,
         singleQuote: false,
+        endOfLine: "auto",
         trailingComma: "all",
         arrowParens: "always",
-        semi: true,
-        endOfLine: "auto",
       },
     ],
     "jsx-a11y/alt-text": [

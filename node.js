@@ -3,7 +3,11 @@ module.exports = {
     es2021: true,
     node: true,
   },
-  extends: ["standard", "plugin:prettier/recommended"],
+  extends: [
+    "standard",
+    "plugin:@typescript-eslint/recommended",
+    "plugin:prettier/recommended",
+  ],
   parser: "@typescript-eslint/parser",
   parserOptions: {
     ecmaVersion: "latest",
@@ -15,13 +19,13 @@ module.exports = {
     "prettier/prettier": [
       "error",
       {
-        printWidth: 80,
+        semi: true,
         tabWidth: 2,
+        printWidth: 80,
         singleQuote: false,
+        endOfLine: "auto",
         trailingComma: "all",
         arrowParens: "always",
-        semi: true,
-				endOfLine: "auto",
       },
     ],
   },

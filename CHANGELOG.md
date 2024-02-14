@@ -1,5 +1,11 @@
 # @rafaeld3v/eslint-config
 
+## 2.1.1
+
+### Patch Changes
+
+- Fix react, next and node.
+
 ## 2.1.0
 
 ### Minor Changes
