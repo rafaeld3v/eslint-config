@@ -14,10 +14,11 @@
 
 ### React (with Next.js)
 Install dependencies:
-
+```
 npm i -D eslint @rocketseat/eslint-config
-Inside .eslintrc.json
+```
 
+Inside .eslintrc.json
 ```
 {
   "extends": [
@@ -29,10 +30,11 @@ Inside .eslintrc.json
 
 ### React (without Next.js)
 Install dependencies:
-
+```
 npm i -D eslint @rocketseat/eslint-config
-Inside .eslintrc.json
+```
 
+Inside .eslintrc.json
 ```
 {
   "extends": "@rocketseat/eslint-config/react"
@@ -41,10 +43,11 @@ Inside .eslintrc.json
 
 ### Node.js
 Install dependencies:
-
+```
 npm i -D eslint @rocketseat/eslint-config
-Inside .eslintrc.json
+```
 
+Inside .eslintrc.json
 ```
 {
   "extends": "@rocketseat/eslint-config/node"
