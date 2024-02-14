@@ -15,13 +15,13 @@
 ### React (with Next.js)
 Install dependencies:
 ```
-npm i -D eslint @rocketseat/eslint-config
+npm i -D eslint @rafaeld3v/eslint-config
 ```
 Inside .eslintrc.json
 ```
 {
   "extends": [
-    "@rocketseat/eslint-config/next", 
+    "@rafaeld3v/eslint-config/next", 
     "next/core-web-vitals"
   ]
 }
@@ -30,24 +30,24 @@ Inside .eslintrc.json
 ### React (without Next.js)
 Install dependencies:
 ```
-npm i -D eslint @rocketseat/eslint-config
+npm i -D eslint @rafaeld3v/eslint-config
 ```
 Inside .eslintrc.json
 ```
 {
-  "extends": "@rocketseat/eslint-config/react"
+  "extends": "@rafaeld3v/eslint-config/react"
 }
 ```
 
 ### Node.js
 Install dependencies:
 ```
-npm i -D eslint @rocketseat/eslint-config
+npm i -D eslint @rafaeld3v/eslint-config
 ```
 Inside .eslintrc.json
 ```
 {
-  "extends": "@rocketseat/eslint-config/node"
+  "extends": "@rafaeld3v/eslint-config/node"
 }
 ```
 
