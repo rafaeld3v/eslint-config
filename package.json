@@ -1,6 +1,6 @@
 {
   "name": "@rafaeld3v/eslint-config",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "private": false,
   "description": "ESLint configuration used by rafaeld3v.",
   "main": "index.js",
@@ -29,8 +29,8 @@
     "prettier": "^2.6.2"
   },
   "peerDependencies": {
-    "eslint": "^7.23.0 || ^8.0.0",
-    "typescript": ">=3.3.1"
+    "eslint": "^8.0.0",
+    "typescript": ">=5"
   },
   "peerDependenciesMeta": {
     "typescript": {
