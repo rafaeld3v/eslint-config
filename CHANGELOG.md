@@ -1,5 +1,11 @@
 # @rafaeld3v/eslint-config
 
+## 2.0.0
+
+### Major Changes
+
+- Add nextjs and fix
+
 ## 1.1.0
 
 ### Minor Changes
