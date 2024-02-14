@@ -17,6 +17,7 @@ Install dependencies:
 ```
 npm i -D eslint @rocketseat/eslint-config
 ```
+
 Inside .eslintrc.json
 ```
 {
@@ -32,6 +33,7 @@ Install dependencies:
 ```
 npm i -D eslint @rocketseat/eslint-config
 ```
+
 Inside .eslintrc.json
 ```
 {
@@ -44,6 +46,7 @@ Install dependencies:
 ```
 npm i -D eslint @rocketseat/eslint-config
 ```
+
 Inside .eslintrc.json
 ```
 {
