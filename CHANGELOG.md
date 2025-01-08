@@ -1,5 +1,11 @@
 # @rafaeld3v/eslint-config
 
+## 3.0.5
+
+### Patch Changes
+
+- Add new configs
+
 ## 3.0.3
 
 ### Patch Changes
