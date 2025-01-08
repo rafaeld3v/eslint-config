@@ -26,6 +26,8 @@ module.exports = {
         endOfLine: "auto",
         trailingComma: "all",
         arrowParens: "avoid",
+        bracketSameLine: true,
+        bracketSpacing: true,
       },
     ],
   },

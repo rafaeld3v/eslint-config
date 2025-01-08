@@ -1,12 +1,12 @@
 {
   "name": "@rafaeld3v/eslint-config",
-  "version": "3.0.3",
+  "version": "3.0.4",
   "private": false,
-  "description": "ESLint configuration used by rafaeld3v.",
+  "description": "ESLint configuration used by @rafaeld3v.",
   "main": "index.js",
   "license": "MIT",
   "repository": {
-    "url": "rafaeld3v/eslint-config-rafaeld3v"
+    "url": "rafaeld3v/eslint-config"
   },
   "scripts": {
     "changeset": "changeset",
@@ -36,8 +36,5 @@
     "typescript": {
       "optional": true
     }
-  },
-  "devDependencies": {
-    "@changesets/cli": "^2.26.1"
   }
 }
