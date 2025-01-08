@@ -25,7 +25,7 @@ module.exports = {
         singleQuote: false,
         endOfLine: "auto",
         trailingComma: "all",
-        arrowParens: "always",
+        arrowParens: "avoid",
       },
     ],
   },

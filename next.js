@@ -28,7 +28,9 @@ module.exports = {
         singleQuote: false,
         endOfLine: "auto",
         trailingComma: "all",
-        arrowParens: "always",
+        arrowParens: "avoid",
+        bracketSameLine: true,
+        bracketSpacing: true,
       },
     ],
     "jsx-a11y/alt-text": [

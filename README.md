@@ -12,6 +12,19 @@
 
 ## Setup
 
+### React Native
+Install dependencies:
+```
+npm i -D eslint @rafaeld3v/eslint-config
+```
+Inside .eslintrc.json
+```
+{
+  "extends": [
+    "@rafaeld3v/eslint-config/react-native", 
+  ]
+}
+
 ### React (with Next.js)
 Install dependencies:
 ```
