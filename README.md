@@ -2,17 +2,17 @@
 
 # ESLint config
 
-## Whats included?
+## What's included? 🔧
 
-- Standard config base;
-- React plugin;
-- React Hooks plugin;
-- JSX a11y plugin;
-- Prettier;
+- 🔑 Standard config base
+- ⚛️ React plugin
+- 🪝 React Hooks plugin
+- 🧑‍💻 JSX a11y plugin
+- 🎨 Prettier
 
-## Setup
+## Setup 🚀
 
-### React Native
+### React Native 📱
 Install dependencies:
 ```
 npm i -D eslint @rafaeld3v/eslint-config
@@ -25,7 +25,7 @@ Inside .eslintrc.json
   ]
 }
 
-### React (with Next.js)
+### React (with Next.js) ⚡️
 Install dependencies:
 ```
 npm i -D eslint @rafaeld3v/eslint-config
@@ -40,7 +40,7 @@ Inside .eslintrc.json
 }
 ```
 
-### React (without Next.js)
+### React (without Next.js) ⚛️
 Install dependencies:
 ```
 npm i -D eslint @rafaeld3v/eslint-config
@@ -52,7 +52,7 @@ Inside .eslintrc.json
 }
 ```
 
-### Node.js
+### Node.js 🖧
 Install dependencies:
 ```
 npm i -D eslint @rafaeld3v/eslint-config
@@ -64,4 +64,5 @@ Inside .eslintrc.json
 }
 ```
 
-> You can also use a `.eslintrc.js` instead of JSON if you prefer.
+### 🎉 License
+MIT License © rafaeld3v
