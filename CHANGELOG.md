@@ -1,5 +1,11 @@
 # @rafaeld3v/eslint-config
 
+## 3.0.0
+
+### Major Changes
+
+- Add React Native config
+
 ## 2.1.1
 
 ### Patch Changes
