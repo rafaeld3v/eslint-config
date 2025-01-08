@@ -65,5 +65,5 @@ Inside .eslintrc.json
 }
 ```
 
-### 🎉 License
+## 🎉 License
 MIT License © rafaeld3v
