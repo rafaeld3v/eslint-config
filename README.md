@@ -24,6 +24,7 @@ Inside .eslintrc.json
     "@rafaeld3v/eslint-config/react-native", 
   ]
 }
+```
 
 ### React (with Next.js) ⚡️
 Install dependencies:
